@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ProfAnaPaulaPerin
-- 👀 I'm English teacher and Portuguese teacher.
-- :neckbeard: Graduate: Letters, Pedagogy, Law School, Interior Design.
-- :neckbeard: Studying Masters in education.
+- #👋 Hi, Eu sou Prof. Ana Paula Perin
+- 👀 Eu sou professora de Língua Portuguesa e Língua Inglesa.
+- :neckbeard: Sou formada em: Direito; Letras, Português/Inglês; Pedagogia; Design de Interiores.
+- :neckbeard: Atualmente, realizando mestrado.
 - 
 
 <!---
